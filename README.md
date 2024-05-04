@@ -17,7 +17,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 seguem abaixo.
 
 <a href="https://github.com/jefteralex1/ebook-project/blob/main/output/Apresenta%C3%A7%C3%A3o.pptx" title="View PDF now"> 📕Clique aqui para ler</a>
--[Ou Clique aqui](https://1drv.ms/p/s!ApvEiUAZVf7qg2B7sfWRlNMLSZmg?e=0xiwVm)
+-- [Ou aqui](https://1drv.ms/p/s!ApvEiUAZVf7qg2B7sfWRlNMLSZmg?e=0xiwVm)
 
 ## 💻 Tecnologias utilizadas no projeto
 
